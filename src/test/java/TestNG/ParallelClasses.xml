@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ParallelClasses" parallel="classes">
+<test name="ParallelClasses">
+<classes>
+
+<class name="TestNG.ClassOne"/>
+<class name="TestNG.ClassTwo"/>
+
+</classes>
+
+</test>
+
+</suite>

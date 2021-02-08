@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "test">
+	<test name ="test">
+		<classes>
+			<class name="mypackage.Test9">
+				<methods>
+					<exclude name="close">
+					</exclude>				
+				</methods>			
+			</class>
+		</classes>
+	</test> 
+</suite>

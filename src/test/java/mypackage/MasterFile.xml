@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Master">
+
+<suite-files>
+	<suite-file path="D:\Automation\org.nvizion\Suite1.xml" />
+	<suite-file path="D:\Automation\org.nvizion\Suite2.xml" />
+</suite-files>
+
+</suite>

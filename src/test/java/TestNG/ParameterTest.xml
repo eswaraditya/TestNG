@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" verbose="1"> 
+<test name="Test"> 
+<parameter name = "Browser" value = "Firefox"/> 
+<parameter name = "URL" value = "https://www.google.com"/> 
+<classes> 
+     <class name = "TestNG.Parameterization"/> 
+</classes> 
+</test> 
+</suite>

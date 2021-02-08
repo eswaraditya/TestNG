@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ParallelTest" parallel="tests">
+
+<test name="ClassOne">
+<classes>
+	<class name="TestNG.ClassOne"/>
+</classes>
+</test>
+
+<test name="ClassTwo">
+<classes>
+	<class name="TestNG.ClassTwo"/>
+</classes>
+</test>
+
+</suite>
